@@ -1895,874 +1895,874 @@ The scent of blood!
 Whoa! Hey, crazy, where you going?!
 
 475
-00:42:33,300 --> 00:42:36,228
+00:42:33,300 --> 00:42:36,094
 The game is afoot!
 
 476
-00:42:36,220 --> 00:42:37,284
+00:42:36,303 --> 00:42:37,367
 The battle is joined!
 
 477
-00:42:37,304 --> 00:42:38,316
+00:42:37,888 --> 00:42:38,900
 Damn, she's fast!
 
 478
-00:42:38,305 --> 00:42:42,281
+00:42:39,236 --> 00:42:42,281
 The scene's evacuated and blocked off.
 
 479
-00:42:42,268 --> 00:42:45,255
+00:42:42,585 --> 00:42:45,255
 It's the Sea Cucumber Devil. \NYes, the Sea Cucumber Devil.
 
 480
-00:42:45,271 --> 00:42:48,235
+00:42:45,565 --> 00:42:48,235
 Requesting backup \Nin front of Nerima Station.
 
 481
-00:42:48,232 --> 00:42:50,237
+00:42:48,360 --> 00:42:50,237
 I said, it's the Sea Cucumber—
 
 482
-00:42:50,234 --> 00:42:52,216
+00:42:50,339 --> 00:42:52,216
 Do you know what a sea cucumber is?
 
 483
-00:42:52,236 --> 00:42:54,272
+00:42:52,353 --> 00:42:54,272
 Look, I'm trying to say—
 
 484
-00:42:59,243 --> 00:43:00,252
+00:42:58,951 --> 00:42:59,960
 What the...?
 
 485
-00:43:01,245 --> 00:43:04,314
+00:43:00,953 --> 00:43:04,022
 Did you see?! The kill is mine!
 
 486
-00:43:30,774 --> 00:43:32,755
+00:43:30,482 --> 00:43:32,463
 If Public Safety kills \Na civilian hunter's devil,
 
 487
-00:43:32,776 --> 00:43:34,816
+00:43:32,484 --> 00:43:34,524
 we're guilty of obstructing their business.
 
 488
-00:43:35,779 --> 00:43:37,806
+00:43:35,487 --> 00:43:37,514
 Normally, you'd be arrested \Nfor that kind of thing.
 
 489
-00:43:38,782 --> 00:43:42,792
+00:43:38,490 --> 00:43:42,500
 Power, you're going to need \Nto think a bit more before acting.
 
 490
-00:43:42,828 --> 00:43:45,803
+00:43:42,536 --> 00:43:45,511
 And you'll have to get her \Nunder control, Denji.
 
 491
-00:43:46,790 --> 00:43:47,807
+00:43:46,498 --> 00:43:47,515
 I'm in trouble, too?
 
 492
-00:43:47,833 --> 00:43:51,823
+00:43:47,541 --> 00:43:51,531
 Before becoming a Fiend, \NPower was the Blood Devil...
 
 493
-00:43:51,837 --> 00:43:54,823
+00:43:51,545 --> 00:43:54,531
 So she's got a talent \Nfor using blood in battle,
 
 494
-00:43:55,758 --> 00:43:57,794
+00:43:55,466 --> 00:43:57,502
 but also gets worked up pretty easily.
 
 495
-00:43:57,843 --> 00:44:00,828
+00:43:57,551 --> 00:44:00,536
 Maybe she's not cut out to be \Na Devil Hunter after all.
 
 496
-00:44:00,846 --> 00:44:01,846
+00:44:01,096 --> 00:44:02,096
 It...
 
 497
-00:44:02,848 --> 00:44:05,848
+00:44:02,556 --> 00:44:05,556
 I-It was he who commanded me to kill!
 
 498
-00:44:06,852 --> 00:44:10,770
+00:44:06,560 --> 00:44:10,478
 I did not! How can you just lie like that?!
 
 499
-00:44:10,773 --> 00:44:12,823
+00:44:10,481 --> 00:44:12,531
 It is no lie! It was him!
 
 500
-00:44:12,816 --> 00:44:16,758
+00:44:12,524 --> 00:44:16,466
 The human ordered me to kill \Nthis devil! That's the truth!
 
 501
-00:44:16,737 --> 00:44:18,759
+00:44:16,445 --> 00:44:18,467
 What a creep!
 
 502
-00:44:18,781 --> 00:44:21,780
+00:44:18,489 --> 00:44:21,488
 Miss Makima, this devil's a total liar!
 
 503
-00:44:21,825 --> 00:44:22,874
+00:44:21,909 --> 00:44:23,118
 You oughta arrest her right now!
 
 504
-00:44:22,868 --> 00:44:25,801
+00:44:23,243 --> 00:44:25,621
 You're under arrest for the crime \Nof being a fake-ass liar!
 
 505
-00:44:25,788 --> 00:44:27,828
+00:44:25,663 --> 00:44:27,703
 Not true! It was by his command!
 
 506
-00:44:28,749 --> 00:44:31,806
+00:44:28,457 --> 00:44:31,514
 Devils do not lie! It is only humans who do!
 
 507
-00:44:31,835 --> 00:44:33,831
+00:44:31,543 --> 00:44:33,539
 No one ever said that!
 
 508
-00:44:33,796 --> 00:44:37,752
+00:44:33,504 --> 00:44:37,460
 And you're the reason why! \NDumbass! Shitty liar!
 
 509
-00:44:37,758 --> 00:44:39,786
+00:44:37,466 --> 00:44:39,494
 Humans and your filthy lies!
 
 510
-00:44:39,802 --> 00:44:41,840
+00:44:39,510 --> 00:44:41,548
 I only did as I was told!
 
 511
-00:44:41,845 --> 00:44:45,812
+00:44:41,553 --> 00:44:45,520
 Why the hell do you talk like \Nthat anyway?! It's so creepy!
 
 512
-00:44:45,849 --> 00:44:47,806
+00:44:45,557 --> 00:44:47,514
 Could you quiet down?
 
 513
-00:44:50,771 --> 00:44:52,779
+00:44:50,479 --> 00:44:52,487
 Y-Yes.
 
 514
-00:44:54,817 --> 00:44:56,822
+00:44:54,525 --> 00:44:56,530
 Very good, Power.
 
 515
-00:44:57,778 --> 00:45:01,776
+00:44:57,486 --> 00:45:01,484
 Honestly, I don't really care \Nwho got in whose way.
 
 516
-00:45:01,740 --> 00:45:03,825
+00:45:01,573 --> 00:45:03,658
 I want to see the two of you \Nworking well together.
 
 517
-00:45:04,827 --> 00:45:07,776
+00:45:04,535 --> 00:45:07,484
 Can you show me that?
 
 518
-00:45:07,746 --> 00:45:09,827
+00:45:07,538 --> 00:45:09,619
 We... W-We can.
 
 519
-00:45:36,817 --> 00:45:39,854
+00:45:36,525 --> 00:45:39,562
 Maybe I should worry about \Ncopping a feel some other time.
 
 520
-00:45:57,796 --> 00:46:01,844
+00:45:57,504 --> 00:46:01,552
 Y'know, being able to just grab a drink \Nlike this is a dream come true to me.
 
 521
-00:46:02,843 --> 00:46:04,851
+00:46:02,551 --> 00:46:04,559
 But if we keep screwing up,
 
 522
-00:46:05,804 --> 00:46:08,801
+00:46:05,512 --> 00:46:08,509
 being thirsty is probably gonna be \Nthe least of my problems.
 
 523
-00:46:09,850 --> 00:46:13,806
+00:46:09,558 --> 00:46:13,514
 Not that it'll make it any easier to work \Nwith some chick that lies, though.
 
 524
-00:46:15,814 --> 00:46:18,808
+00:46:15,522 --> 00:46:18,516
 I only enjoy the company of cats.
 
 525
-00:46:20,778 --> 00:46:22,790
+00:46:20,486 --> 00:46:22,498
 I hate humans.
 
 526
-00:46:22,779 --> 00:46:25,772
+00:46:22,488 --> 00:46:25,481
 It's not a matter of personal grievance.
 
 527
-00:46:25,783 --> 00:46:27,843
+00:46:25,491 --> 00:46:27,551
 My hatred is almost like a demonic instinct.
 
 528
-00:46:28,744 --> 00:46:30,764
+00:46:28,452 --> 00:46:30,472
 And I hate devils, too.
 
 529
-00:46:30,788 --> 00:46:33,857
+00:46:30,496 --> 00:46:33,565
 Since one of them took \Nmy pet Meowy away.
 
 530
-00:46:35,792 --> 00:46:40,767
+00:46:35,501 --> 00:46:40,476
 Before I was able to recover Meowy, \NI fell into Makima's clutches.
 
 531
-00:46:40,798 --> 00:46:44,785
+00:46:40,506 --> 00:46:44,493
 My dear Meowy may be dead already, and yet...\NI find it hard to give up hope.
 
 532
-00:46:45,761 --> 00:46:48,741
+00:46:45,469 --> 00:46:48,449
 If it lets me retrieve Meowy \Nfrom that demon,
 
 533
-00:46:48,764 --> 00:46:50,824
+00:46:48,472 --> 00:46:50,532
 I'm willing to abide humans, \Nor anything else I needs must.
 
 534
-00:46:51,767 --> 00:46:54,843
+00:46:51,475 --> 00:46:54,551
 I doubt you'd understand \Nsuch concern for a cat.
 
 535
-00:46:55,812 --> 00:46:58,838
+00:46:55,521 --> 00:46:58,547
 For a cat? That's dumb as hell.
 
 536
-00:46:59,775 --> 00:47:02,826
+00:46:59,483 --> 00:47:02,534
 But I'd do whatever it takes \Nto get to fondle some boobs.
 
 537
-00:47:04,821 --> 00:47:07,821
+00:47:04,530 --> 00:47:07,530
 It seems I may never understand humans.
 
 538
-00:47:11,787 --> 00:47:14,783
+00:47:11,495 --> 00:47:14,491
 But I think I'd get you if it was a dog.
 
 539
-00:47:16,834 --> 00:47:19,822
+00:47:16,542 --> 00:47:19,530
 What would you say to the \Nprospect of fondling my chest
 
 540
-00:47:19,795 --> 00:47:21,806
+00:47:19,711 --> 00:47:21,722
 after retrieving Meowy from that devil?
 
 541
-00:47:27,761 --> 00:47:28,824
+00:47:27,469 --> 00:47:28,532
 That {\i1}fucking{\i0} devil...
 
 542
-00:47:29,805 --> 00:47:32,831
+00:47:29,513 --> 00:47:32,539
 thinks he can just kidnap some poor cat?!
 
 543
-00:47:33,850 --> 00:47:36,814
+00:47:33,559 --> 00:47:36,523
 Well, I don't think so!
 
 544
-00:47:38,814 --> 00:47:40,812
+00:47:38,522 --> 00:47:40,520
 As a Devil Hunter, I say no!
 
 545
-00:47:41,859 --> 00:47:46,782
+00:47:41,567 --> 00:47:46,490
 I'm gonna kill the shit out of that devil!
 
 546
-00:47:50,492 --> 00:47:53,478
+00:47:49,908 --> 00:47:52,894
 Leave for the Fiend, Power, is approved.
 
 547
-00:47:55,455 --> 00:47:57,491
+00:47:54,872 --> 00:47:56,908
 Make sure to have her back by 5:00 PM.
 
 548
-00:47:58,458 --> 00:48:00,510
+00:47:57,875 --> 00:47:59,927
 You're not even allowed to \Ngo out on your own?
 
 549
-00:48:00,502 --> 00:48:04,454
+00:47:59,918 --> 00:48:03,870
 Indeed. I've had to idly while \Naway my time in here.
 
 550
-00:48:17,477 --> 00:48:21,412
+00:48:16,894 --> 00:48:20,828
 I know where the devil \Nthat kidnapped Meowy dwells.
 
 551
-00:48:21,440 --> 00:48:23,524
+00:48:20,856 --> 00:48:22,940
 The concern is that you are \Nthe only one who can fight it.
 
 552
-00:48:25,444 --> 00:48:29,499
+00:48:24,860 --> 00:48:28,915
 He's likely to use Meowy \Nas a shield upon seeing me.
 
 553
-00:48:30,490 --> 00:48:33,412
+00:48:29,906 --> 00:48:32,828
 If that happens, then all is lost.
 
 554
-00:48:36,496 --> 00:48:39,486
+00:48:35,913 --> 00:48:38,903
 I had a pet devil named Pochita, y'know?
 
 555
-00:48:40,459 --> 00:48:44,412
+00:48:39,875 --> 00:48:43,828
 I can't pet him anymore, but it's cool.
 
 556
-00:48:45,422 --> 00:48:47,425
+00:48:44,838 --> 00:48:46,841
 Because he's alive in here.
 
 557
-00:48:47,466 --> 00:48:49,475
+00:48:46,882 --> 00:48:48,891
 How foolish you humans are.
 
 558
-00:48:50,510 --> 00:48:54,431
+00:48:49,926 --> 00:48:53,847
 Does that not mean Pochita is dead?
 
 559
-00:48:54,431 --> 00:48:58,436
+00:48:53,847 --> 00:48:57,852
 Death is the absence of life. \NThis nonsense about living on in your heart
 
 560
-00:48:58,435 --> 00:49:00,463
+00:48:57,851 --> 00:48:59,879
 is little more than miserable self-comfort.
 
 561
-00:49:07,486 --> 00:49:10,484
+00:49:06,902 --> 00:49:09,900
 Uh-huh. I guess so.
 
 562
-00:49:16,453 --> 00:49:20,504
+00:49:15,869 --> 00:49:19,920
 I don't think I'm ever \Ngonna get along with her.
 
 563
-00:49:25,337 --> 00:49:30,330
+00:49:24,753 --> 00:49:29,746
 The American matter has got the Soviet \Nwar hawks crowing more loudly than ever.
 
 564
-00:49:31,301 --> 00:49:35,269
+00:49:30,717 --> 00:49:34,685
 There are rumors about \Nthe military use of devils, as well.
 
 565
-00:49:35,305 --> 00:49:40,336
+00:49:34,721 --> 00:49:39,752
 Hopefully, devils will remain \NJapan's only enemies in the future.
 
 566
-00:49:40,310 --> 00:49:43,232
+00:49:39,726 --> 00:49:42,648
 Makima, how are the hunting dogs
 
 567
-00:49:43,230 --> 00:49:45,278
+00:49:42,646 --> 00:49:44,694
 that have been added \Nto the squad performing?
 
 568
-00:49:45,315 --> 00:49:50,307
+00:49:44,731 --> 00:49:49,723
 There's one that seems promising, \Nand another that seems interesting.
 
 569
-00:49:51,238 --> 00:49:52,296
+00:49:50,654 --> 00:49:51,712
 Interesting...?
 
 570
-00:49:52,322 --> 00:49:54,309
+00:49:51,738 --> 00:49:53,725
 A pup that I just recently picked up.
 
 571
-00:49:56,284 --> 00:50:00,290
+00:49:55,701 --> 00:49:59,707
 Your job is to raise these hounds, \Nand then put them to work.
 
 572
-00:50:01,248 --> 00:50:04,261
+00:50:00,664 --> 00:50:03,677
 Make sure not to grow attached.
 
 573
-00:50:19,266 --> 00:50:22,262
+00:50:18,682 --> 00:50:21,678
 As far as I can tell, \NDenji's disgusting, not "interesting."
 
 574
-00:50:24,271 --> 00:50:26,314
+00:50:23,687 --> 00:50:25,730
 Why do you have such high hopes for him?
 
 575
-00:50:41,329 --> 00:50:45,268
+00:50:40,746 --> 00:50:44,685
 All devils are born with names.
 
 576
-00:50:45,333 --> 00:50:48,330
+00:50:44,750 --> 00:50:47,747
 And the more those names are feared,
 
 577
-00:50:48,336 --> 00:50:51,292
+00:50:47,753 --> 00:50:50,709
 the more powerful the devil \Nis said to become.
 
 578
-00:50:52,257 --> 00:50:56,295
+00:50:51,673 --> 00:50:55,711
 Coffee isn't considered very frightening,
 
 579
-00:50:56,303 --> 00:50:59,340
+00:50:55,719 --> 00:50:58,756
 so a Coffee Devil would probably be weak.
 
 580
-00:51:00,307 --> 00:51:03,334
+00:50:59,723 --> 00:51:02,750
 But what about a Car Devil?
 
 581
-00:51:04,269 --> 00:51:08,282
+00:51:03,685 --> 00:51:07,698
 It's easy to imagine being run over \Nand dying, so it would probably be strong.
 
 582
-00:51:10,317 --> 00:51:14,269
+00:51:09,733 --> 00:51:13,685
 And Denji can turn into a Chainsaw Devil.
 
 583
-00:51:16,281 --> 00:51:18,291
+00:51:15,697 --> 00:51:17,707
 Seems pretty interesting to me.
 
 584
-00:51:22,287 --> 00:51:25,307
+00:51:21,703 --> 00:51:24,723
 He might be interesting, \Nbut I'm not sure he'll be any use.
 
 585
-00:51:27,292 --> 00:51:31,313
+00:51:26,708 --> 00:51:30,729
 Everyone in Public Safety has \Na real goal or motivation.
 
 586
-00:51:31,296 --> 00:51:35,289
+00:51:30,712 --> 00:51:34,705
 But he said he just wants \Nto live the good life.
 
 587
-00:51:36,259 --> 00:51:38,304
+00:51:35,675 --> 00:51:37,720
 He's a bad fit for our operation.
 
 588
-00:51:38,303 --> 00:51:42,241
+00:51:37,719 --> 00:51:41,657
 Not only that, but he thinks \Nhe can be friends with devils.
 
 589
-00:51:43,266 --> 00:51:46,288
+00:51:42,682 --> 00:51:45,704
 He's still a kid. A stupid brat.
 
 590
-00:52:00,242 --> 00:52:01,285
+00:51:59,658 --> 00:52:00,701
 That is the house!
 
 591
-00:52:02,285 --> 00:52:04,313
+00:52:01,701 --> 00:52:03,729
 Meowy and the devil are in there.
 
 592
-00:52:08,250 --> 00:52:09,330
+00:52:07,666 --> 00:52:08,746
 Well, we better get going, then.
 
 593
-00:52:17,300 --> 00:52:20,318
+00:52:16,716 --> 00:52:19,734
 Hope I don't have to chainsaw out. \NLosing all that blood's a drag.
 
 594
-00:52:22,264 --> 00:52:23,322
+00:52:21,680 --> 00:52:22,738
 Chainsaw?
 
 595
-00:52:23,306 --> 00:52:26,278
+00:52:22,722 --> 00:52:25,694
 Yeah. I can turn into a buncha chainsaws.
 
 596
-00:52:26,351 --> 00:52:29,305
+00:52:25,767 --> 00:52:28,721
 Human jokes leave much to be desired.
 
 597
-00:52:34,317 --> 00:52:36,273
+00:52:33,733 --> 00:52:35,689
 What is it now?
 
 598
-00:52:36,319 --> 00:52:40,272
+00:52:35,735 --> 00:52:39,688
 Isn't he gonna use the cat \Nas a hostage if he sees you?
 
 599
-00:52:40,323 --> 00:52:43,281
+00:52:39,739 --> 00:52:42,697
 Should you even, like, be this close?
 
 600
-00:52:43,285 --> 00:52:46,336
+00:52:42,701 --> 00:52:45,752
 Oh, I did say that, didn't I?
 
 601
-00:52:46,329 --> 00:52:48,279
+00:52:45,745 --> 00:52:47,695
 You {\i1}said{\i0}...?
 
 602
-00:52:48,290 --> 00:52:51,265
+00:52:47,706 --> 00:52:50,681
 I misspoke.
 
 603
-00:53:00,343 --> 00:53:04,364
+00:52:59,759 --> 00:53:03,780
 Fool that you are, it seems \Nyour instincts are sharp.
 
 604
-00:53:29,372 --> 00:53:33,435
+00:53:28,788 --> 00:53:32,851
 You kept me waiting \Na long time, Blood Devil.
 
 605
-00:53:33,418 --> 00:53:36,396
+00:53:32,834 --> 00:53:35,812
 I thought you had run away.
 
 606
-00:53:36,421 --> 00:53:40,446
+00:53:35,837 --> 00:53:39,862
 Spare me your complaints! \NIt took me this long to gain some freedom.
 
 607
-00:53:41,426 --> 00:53:45,402
+00:53:40,842 --> 00:53:44,818
 And I've brought a human \Njust as you demanded, Bat!
 
 608
-00:53:49,392 --> 00:53:51,442
+00:53:48,808 --> 00:53:50,858
 My first meal in ages...
 
 609
-00:53:51,436 --> 00:53:56,429
+00:53:50,852 --> 00:53:55,845
 A young man? I'm sure his \Nblood will be full of vigor.
 
 610
-00:54:02,447 --> 00:54:06,379
+00:54:01,863 --> 00:54:05,795
 Look at my arm, human.
 
 611
-00:54:06,368 --> 00:54:09,368
+00:54:05,784 --> 00:54:08,784
 The wound that your kind gave me!
 
 612
-00:54:09,371 --> 00:54:14,418
+00:54:08,787 --> 00:54:13,834
 The damnable wound \Nthat forced me into hiding!
 
 613
-00:54:15,377 --> 00:54:17,383
+00:54:14,793 --> 00:54:16,799
 Like I give a shit. Dumbass.
 
 614
-00:54:17,379 --> 00:54:19,415
+00:54:16,795 --> 00:54:18,831
 Food shouldn't speak!
 
 615
-00:54:19,422 --> 00:54:25,416
+00:54:18,838 --> 00:54:24,832
 Time to heal the wounds humans \Ngave me with human blood!
 
 616
-00:54:31,434 --> 00:54:33,395
+00:54:30,850 --> 00:54:32,811
 Disgusting!
 
 617
-00:54:35,438 --> 00:54:41,425
+00:54:34,854 --> 00:54:40,841
 I've been revived with awful-tasting blood!
 
 618
-00:54:45,407 --> 00:54:48,396
+00:54:44,823 --> 00:54:47,812
 The inside of my mouth tastes disgusting...
 
 619
-00:54:48,410 --> 00:54:52,372
+00:54:47,826 --> 00:54:51,788
 I need to cleanse my palate \Nwith another human now!
 
 620
-00:55:00,380 --> 00:55:03,373
+00:54:59,796 --> 00:55:02,789
 What are you trying to do? \NMake friends with them?
 
 621
-00:55:08,388 --> 00:55:12,380
+00:55:07,804 --> 00:55:11,796
 I'm amazed you actually believed my story.
 
 622
-00:55:14,477 --> 00:55:17,465
+00:55:13,893 --> 00:55:16,881
 Humans truly are foolish.
 
 623
-00:55:24,029 --> 00:55:26,038
+00:55:23,445 --> 00:55:25,454
 The stench of cigarettes...
 
 624
-00:55:26,948 --> 00:55:29,936
+00:55:26,364 --> 00:55:29,117
 The scent of makeup and drugs...
 
 625
-00:55:29,951 --> 00:55:30,032
+00:55:29,407 --> 00:55:30,241
 Are you serious?
 
 626
-00:55:30,035 --> 00:55:31,041
+00:55:30,243 --> 00:55:30,618
 Wow!
 
 627
-00:55:32,996 --> 00:55:35,972
+00:55:32,412 --> 00:55:35,388
 There's a decent aroma.
 
 628
-00:55:35,999 --> 00:55:39,007
+00:55:35,415 --> 00:55:38,423
 I'll cleanse my palate with some children.
 
 629
-00:55:40,003 --> 00:55:41,039
+00:55:39,419 --> 00:55:40,455
 Bat Devil!
 
 630
-00:55:43,006 --> 00:55:45,971
+00:55:42,422 --> 00:55:45,387
 I brought you a human, as promised!
 
 631
-00:55:46,009 --> 00:55:47,999
+00:55:45,425 --> 00:55:47,415
 Release Meowy.
 
 632
-00:55:50,972 --> 00:55:54,987
+00:55:50,388 --> 00:55:54,403
 Oh, I did say I'd do that, didn't I?
 
 633
-00:55:58,980 --> 00:55:59,980
+00:55:58,396 --> 00:55:59,396
 Meowy!
 
 634
-00:55:59,981 --> 00:56:05,031
+00:55:59,397 --> 00:56:04,447
 But I hadn't punished you for bringing me \Nsuch nasty blood yet, had I?
 
 635
-00:56:09,991 --> 00:56:11,014
+00:56:09,407 --> 00:56:10,430
 Meowy...?
 
 636
-00:56:11,034 --> 00:56:12,971
+00:56:10,450 --> 00:56:12,387
 Meowy!
 
 637
-00:56:12,994 --> 00:56:14,994
+00:56:12,410 --> 00:56:14,410
 Your name shall be Meowy!
 
 638
-00:56:14,996 --> 00:56:17,996
+00:56:14,412 --> 00:56:17,412
 You smell tasty, for a cat.
 
 639
-00:56:22,003 --> 00:56:24,975
+00:56:21,419 --> 00:56:24,391
 So spindly, though.
 
 640
-00:56:26,007 --> 00:56:29,012
+00:56:25,423 --> 00:56:28,428
 Let's put some meat \Non those bones before I feast.
 
 641
-00:56:39,020 --> 00:56:41,014
+00:56:38,436 --> 00:56:40,430
 Grow big and strong, now.
 
 642
-00:56:41,940 --> 00:56:44,982
+00:56:41,356 --> 00:56:44,398
 I'm looking forward to killing you, Meowy.
 
 643
-00:56:54,035 --> 00:56:58,005
+00:56:53,451 --> 00:56:57,421
 I've killed all who've met my eyes.
 
 644
-00:56:59,958 --> 00:57:03,960
+00:56:59,374 --> 00:57:03,376
 It's become strange to hear a voice \Nthat isn't screaming.
 
 645
-00:57:05,004 --> 00:57:06,940
+00:57:04,421 --> 00:57:06,357
 So strange...
 
 646
-00:57:13,012 --> 00:57:15,012
+00:57:12,428 --> 00:57:14,428
 Blood Devil...
 
 647
-00:57:17,058 --> 00:57:19,974
+00:57:16,474 --> 00:57:19,390
 I need blood.
 
 648
-00:57:20,019 --> 00:57:26,009
+00:57:19,435 --> 00:57:25,426
 If you want to save this cat, \Nthen bring me a human.
 
 649
-00:57:43,960 --> 00:57:46,964
+00:57:43,376 --> 00:57:46,380
 You said you couldn't pet \NPochita anymore, yes?
 
 650
-00:57:48,047 --> 00:57:50,964
+00:57:47,464 --> 00:57:50,381
 I understand how you feel now.
 
 651
-00:57:52,010 --> 00:57:53,977
+00:57:51,426 --> 00:57:53,393
 'Tis an awful feeling.
 
 652
-00:58:02,020 --> 00:58:03,974
+00:58:01,436 --> 00:58:03,390
 Nasty!
 
 653
-00:58:03,980 --> 00:58:05,993
+00:58:03,396 --> 00:58:05,409
 All of this repulsive blood!
 
 654
-00:58:10,945 --> 00:58:13,958
+00:58:10,361 --> 00:58:13,374
 The inside of my mouth feels filthy!
 
 655
-00:58:13,948 --> 00:58:16,936
+00:58:13,448 --> 00:58:16,436
 I need to gargle with the blood of children!
 
 656
-00:58:21,039 --> 00:58:25,961
+00:58:20,455 --> 00:58:25,377
 After I gargle, a virgin \Nshould make a fine appetizer.
 
 657
-00:58:26,002 --> 00:58:29,019
+00:58:25,418 --> 00:58:28,435
 Then a beefy man for a main course...
 
 658
-00:58:29,005 --> 00:58:31,974
+00:58:28,463 --> 00:58:31,432
 And a pregnant woman for dessert.
 
 659
-00:58:35,970 --> 00:58:38,955
+00:58:35,386 --> 00:58:38,371
 Gimme my tits back!
 
 660
-00:58:38,973 --> 00:58:42,973
+00:58:38,389 --> 00:58:42,389
 You're drinking my blood?! \NThat's disgusting!
 
 661
-00:58:42,977 --> 00:58:46,040
+00:58:42,393 --> 00:58:45,456
 I don't even feel like drinking your blood!
 
 662
-00:58:48,942 --> 00:58:50,974
+00:58:48,358 --> 00:58:50,390
 There was a time I couldn't find Pochita.
 
 663
-00:58:52,028 --> 00:58:54,978
+00:58:51,444 --> 00:58:54,394
 He was gone when I woke up in the morning...
 
 664
-00:58:55,031 --> 00:58:57,969
+00:58:54,447 --> 00:58:57,385
 So I looked all over town, \Nbut couldn't find him.
 
 665
-00:58:59,035 --> 00:59:02,003
+00:58:58,451 --> 00:59:01,419
 I thought a devil might've eaten him,
 
 666
-00:59:03,957 --> 00:59:07,956
+00:59:03,373 --> 00:59:07,372
 but when I got home, \Nhe was crying, waiting for me.
 
 667
-00:59:09,003 --> 00:59:12,002
+00:59:08,419 --> 00:59:11,418
 I remember being so relieved, \NI fell asleep holding him.
 
 668
-00:59:14,050 --> 00:59:20,973
+00:59:13,466 --> 00:59:20,389
 I wonder how she felt when she tried to sleep,\Nknowing that devil had Meowy.
 
 669
-00:59:33,027 --> 00:59:36,001
+00:59:32,443 --> 00:59:35,417
 You're a devil?!
 
 670
-01:00:01,973 --> 01:00:04,023
+01:00:01,389 --> 01:00:03,439
 Hey, dumbass! You wanna get eaten?!
 
 671
-01:00:06,978 --> 01:00:09,036
+01:00:06,394 --> 01:00:08,452
 You let her escape?
 
 672
-01:00:09,981 --> 01:00:13,950
+01:00:09,397 --> 01:00:13,366
 You're a devil! \NWhat do you think you're doing?!
 
 673
-01:00:15,028 --> 01:00:17,952
+01:00:14,444 --> 01:00:17,368
 Think I'm gonna split open your guts...
 
 674
-01:00:17,947 --> 01:00:20,011
+01:00:17,363 --> 01:00:19,427
 And then cop me a feel!
 
 675
-01:01:02,033 --> 01:01:03,048
+01:01:01,449 --> 01:01:02,464
 Get out of here already!
 
 676
-01:01:13,002 --> 01:01:16,949
+01:01:12,418 --> 01:01:16,365
 If you're so set on saving humans...
 
 677
-01:01:18,966 --> 01:01:21,029
+01:01:18,383 --> 01:01:20,446
 Can you cut through this?!
 
 678
-01:01:25,014 --> 01:01:27,020
+01:01:24,430 --> 01:01:26,436
 The chainsaws retract?!
 
 679
-01:01:27,016 --> 01:01:29,959
+01:01:27,206 --> 01:01:29,375
 Such brute strength in that tiny body!
 
 680
-01:01:29,977 --> 01:01:32,996
+01:01:29,477 --> 01:01:32,188
 Why would you use that power \Nto save a human?!
 
 681
-01:01:34,982 --> 01:01:37,018
+01:01:34,399 --> 01:01:36,435
 You think I saved him?
 
 682
-01:01:37,985 --> 01:01:39,006
+01:01:37,402 --> 01:01:38,423
 {\b1\fs30\fnVerdana\fscy125}Western Tokyo
 
 683
-01:01:38,027 --> 01:01:42,005
+01:01:37,443 --> 01:01:41,421
 I don't give a shit...
 
 684
-01:01:42,990 --> 01:01:44,956
+01:01:42,407 --> 01:01:44,373
 about saving some {\i1}dude{\i0}!
 
 685
-01:02:15,273 --> 01:02:17,291
+01:02:14,981 --> 01:02:16,999
 I need to heal now.
 
 686
-01:02:17,275 --> 01:02:20,300
+01:02:16,983 --> 01:02:20,008
 Your blood reeks of cigarettes, \Nbut it should do, for now.
 
 687
-01:02:24,240 --> 01:02:27,239
+01:02:23,948 --> 01:02:26,947
 How are you still alive?!
 
 688
-01:02:29,287 --> 01:02:32,343
+01:02:28,995 --> 01:02:32,051
 Through all of this crap...
 
 689
-01:02:34,250 --> 01:02:36,311
+01:02:33,958 --> 01:02:36,019
 I've been about as patient as possible.
 
 690
-01:02:39,255 --> 01:02:42,272
+01:02:38,963 --> 01:02:41,980
 So how come I haven't...
 
 691
-01:02:42,258 --> 01:02:47,314
+01:02:41,966 --> 01:02:47,022
 gotten to cop a single damn feel yet?!
 
 692
-01:03:00,818 --> 01:03:03,810
+01:03:00,234 --> 01:03:03,226
 S-Stay away!
 
